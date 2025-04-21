@@ -1,6 +1,6 @@
 As part of the codebasics resume Project challenge, I have worked on this Hospitality Domain project.
 
-Link To: link Text [Live Dashboard](https://app.powerbi.com/groups/b79ed17a-6225-4840-b801-2265c592f13d/reports/f399e0dc-245c-43fc-bd8d-11717685fd9e/9dc29bcf26086c1bb197?experience=power-bi)
+Link To: link Text [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTBmNWYxOTEtNmQwMC00MTQzLTk3YmEtZDM3OWI2MmNlNTU3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Problem statement
 AtliQ Grands is a well-established luxury hotel brand with a strong presence across India for the past 20 years. Recently, the company has seen a decline in market share and revenue within the business and luxury segments—largely due to aggressive competition and the absence of data-driven decision-making.
